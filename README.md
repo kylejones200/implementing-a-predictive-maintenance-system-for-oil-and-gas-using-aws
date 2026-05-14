@@ -1,7 +1,7 @@
 # Implementing a Predictive Maintenance System for Oil and Gas using AWS
 
-**Published:** 2025-04-16
-**Medium:** [https://medium.com/@kyle-t-jones/implementing-a-predictive-maintenance-system-for-oil-and-gas-using-aws-8b7538871dd2](https://medium.com/@kyle-t-jones/implementing-a-predictive-maintenance-system-for-oil-and-gas-using-aws-8b7538871dd2)
+Published: 2025-04-16
+Medium: [https://medium.com/@kyle-t-jones/implementing-a-predictive-maintenance-system-for-oil-and-gas-using-aws-8b7538871dd2](https://medium.com/@kyle-t-jones/implementing-a-predictive-maintenance-system-for-oil-and-gas-using-aws-8b7538871dd2)
 
 ## About
 
