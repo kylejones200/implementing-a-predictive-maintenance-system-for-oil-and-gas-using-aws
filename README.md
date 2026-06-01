@@ -11,14 +11,7 @@ This article outlines a predictive maintenance architecture using AWS. You'll le
 
 Any predictive maintenance system starts with data --- and lots of it. Your goal in this stage is to gather historical and real-time data streams and send them securely into the AWS Cloud for storage and analysis.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
